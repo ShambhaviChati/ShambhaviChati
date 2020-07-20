@@ -1,3 +1,5 @@
+
+
 I am recent Business Analytics graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on Ensemble methods and Classification Techniques.
 - 🌱 I’m currently learning Deep Learning techniques using PyTorch.
